@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+gunicorn
+psycopg2-binary
+scikit-learn
+joblib
+numpy
+whitenoise

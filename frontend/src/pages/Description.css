@@ -1,0 +1,68 @@
+.desc-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fafafa;
+}
+
+.desc-card {
+  width: 60%;
+  max-width: 650px;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.desc-title {
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #333;
+  font-weight: bold;
+}
+
+.desc-textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  resize: none;
+}
+
+.desc-textarea:focus {
+  border-color: #1e88e5;
+}
+
+.desc-submit {
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  background: #e53935;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.desc-submit:hover {
+  background: #c62828;
+}
+
+.ml-box {
+  margin-top: 25px;
+  padding: 15px;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
+
+.ml-pred {
+  margin-top: 8px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #e53935;
+}

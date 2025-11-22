@@ -1,0 +1,1 @@
+Frontend: run `npm install` then `npm run start`. Uses Leaflet for mapping and POSTs to /api endpoints.

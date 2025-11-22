@@ -1,0 +1,60 @@
+.about-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fafafa;
+}
+
+.about-card {
+  width: 65%;
+  max-width: 700px;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.12);
+  text-align: center;
+}
+
+.about-icon {
+  width: 110px;
+  margin-bottom: 20px;
+}
+
+.about-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.about-text {
+  font-size: 18px;
+  color: #444;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.about-subtitle {
+  font-size: 24px;
+  color: #1e88e5;
+  margin-bottom: 15px;
+}
+
+.about-list {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.about-list li {
+  text-align: left;
+  margin-left: 25%;
+}
+
+.about-footer {
+  font-size: 17px;
+  color: #555;
+  margin-top: 20px;
+}
