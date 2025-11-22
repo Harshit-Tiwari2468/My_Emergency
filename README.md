@@ -1,4 +1,4 @@
-# Real-Time Emergency Response System (Fixed)
+# Real-Time Emergency Response System
 This repository is a fixed, deployment-ready version matching the resume:
 - React frontend (frontend/)
 - Django backend with Django REST Framework (backend_django/)
