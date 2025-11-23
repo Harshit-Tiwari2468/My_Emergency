@@ -1,6 +1,6 @@
 Real-Time Emergency Response System
 React frontend (frontend/)
-Django backend with Django REST Framework (backend_django/)
+Django backend with Django REST Framework (backend/)
 ML model integrated (ml_model/)
 MySQL-ready settings with fallback to SQLite for local testing
 
