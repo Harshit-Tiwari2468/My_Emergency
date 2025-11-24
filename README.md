@@ -13,7 +13,7 @@ python -m venv venv
 venv\Scripts\activates
 pip install -r requirements.txt
 python manage.py migrate
-python manage.py runserver 0.0.0.0:8000
+python manage.py runserver
 ```
 
 The backend exposes API at http://localhost:8000/api/
